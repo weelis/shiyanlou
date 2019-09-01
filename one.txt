@@ -1,4 +1,1 @@
-hello world
-hello shiyanlou
-ddd
-ADD test
+clean all
